@@ -36,6 +36,21 @@
     * [common](plug-ins/web3-search/avalanche/common.md)
     * [joepegs](plug-ins/web3-search/avalanche/joepegs.md)
     * [tofu\_nft](plug-ins/web3-search/avalanche/tofu\_nft-1.md)
+  * [BSC](plug-ins/web3-search/bsc/README.md)
+    * [wbnb](plug-ins/web3-search/bsc/wbnb.md)
+    * [tofu\_nft](plug-ins/web3-search/bsc/tofu\_nft.md)
+    * [common](plug-ins/web3-search/bsc/common.md)
+    * [mdex](plug-ins/web3-search/bsc/mdex.md)
+    * [biswap](plug-ins/web3-search/bsc/biswap.md)
+    * [chainlink](plug-ins/web3-search/bsc/chainlink.md)
+    * [thena](plug-ins/web3-search/bsc/thena.md)
+    * [pancakeswap](plug-ins/web3-search/bsc/pancakeswap.md)
+    * [nftrade](plug-ins/web3-search/bsc/nftrade.md)
+    * [apeswap](plug-ins/web3-search/bsc/apeswap.md)
+    * [venus](plug-ins/web3-search/bsc/venus.md)
+    * [pancakeswap](plug-ins/web3-search/bsc/pancakeswap-1.md)
+    * [sushiswap](plug-ins/web3-search/bsc/sushiswap.md)
+    * [element\_market](plug-ins/web3-search/bsc/element\_market.md)
 
 ## Use Cases
 
