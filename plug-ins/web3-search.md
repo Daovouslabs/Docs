@@ -1,4 +1,4 @@
-# 🛠 Getting set up
+# 🛠 Web3 Search
 
 <details>
 
