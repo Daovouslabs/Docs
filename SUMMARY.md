@@ -10,18 +10,19 @@
 ## Plug-ins
 
 * [🛠 Web3 Search](plug-ins/web3-search.md)
-  * [treasure](plug-ins/web3-search/treasure.md)
-  * [camelot](plug-ins/web3-search/camelot.md)
-  * [vesta\_finance](plug-ins/web3-search/vesta\_finance.md)
-  * [uniswap](plug-ins/web3-search/uniswap.md)
-  * [aave](plug-ins/web3-search/aave.md)
-  * [common](plug-ins/web3-search/common.md)
-  * [seaport](plug-ins/web3-search/seaport.md)
-  * [tofu\_nft](plug-ins/web3-search/tofu\_nft.md)
-  * [gmx](plug-ins/web3-search/gmx.md)
-  * [balancer](plug-ins/web3-search/balancer.md)
-  * [sushiswap](plug-ins/web3-search/sushiswap.md)
-  * [chainlink](plug-ins/web3-search/chainlink.md)
+  * [Arbitrum](plug-ins/web3-search/arbitrum/README.md)
+    * [treasure](plug-ins/web3-search/arbitrum/treasure.md)
+    * [vesta\_finance](plug-ins/web3-search/arbitrum/vesta\_finance.md)
+    * [chainlink](plug-ins/web3-search/arbitrum/chainlink.md)
+    * [sushiswap](plug-ins/web3-search/arbitrum/sushiswap.md)
+    * [balancer](plug-ins/web3-search/arbitrum/balancer.md)
+    * [gmx](plug-ins/web3-search/arbitrum/gmx.md)
+    * [tofu\_nft](plug-ins/web3-search/arbitrum/tofu\_nft.md)
+    * [seaport](plug-ins/web3-search/arbitrum/seaport.md)
+    * [common](plug-ins/web3-search/arbitrum/common.md)
+    * [aave](plug-ins/web3-search/arbitrum/aave.md)
+    * [uniswap](plug-ins/web3-search/arbitrum/uniswap.md)
+    * [camelot](plug-ins/web3-search/arbitrum/camelot.md)
 
 ## Use Cases
 
