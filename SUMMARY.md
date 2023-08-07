@@ -14,3 +14,6 @@
 ## Use Cases
 
 * [🎨 Web3 Search](use-cases/web3-search.md)
+* [➗ Mathematical Calculation](use-cases/mathematical-calculation.md)
+* [😀 Image Edit](use-cases/image-edit.md)
+* [😀 Image Segementation](use-cases/image-segementation.md)
