@@ -9,7 +9,13 @@
 
 ## Plug-ins
 
-* [🛠 Web3 Search](plug-ins/web3-search.md)
+* [🛠 Web3 Search](plug-ins/web3-search/README.md)
+  * [treasure](plug-ins/web3-search/treasure.md)
+  * [camelot](plug-ins/web3-search/camelot.md)
+  * [vesta\_finance](plug-ins/web3-search/vesta\_finance.md)
+  * [uniswap](plug-ins/web3-search/uniswap.md)
+  * [aave](plug-ins/web3-search/aave.md)
+  * [common](plug-ins/web3-search/common.md)
 
 ## Use Cases
 
@@ -20,3 +26,39 @@
 * [🎙 Text to Audio](use-cases/text-to-audio.md)
 * [🧲 Text to Image](use-cases/text-to-image.md)
 * [📃 Vision Document QA](use-cases/vision-document-qa.md)
+
+***
+
+* [Import](import/README.md)
+  * [aave](import/aave.md)
+  * [.\_aave](import/.\_aave.md)
+  * [balancer](import/balancer.md)
+  * [.\_balancer](import/.\_balancer.md)
+  * [camelot](import/camelot.md)
+  * [.\_camelot](import/.\_camelot.md)
+  * [chainlink](import/chainlink.md)
+  * [.\_chainlink](import/.\_chainlink.md)
+  * [common](import/common.md)
+  * [.\_common](import/.\_common.md)
+  * [gmx](import/gmx.md)
+  * [.\_gmx](import/.\_gmx.md)
+  * [seaport](import/seaport.md)
+  * [.\_seaport](import/.\_seaport.md)
+  * [sushiswap](import/sushiswap.md)
+  * [.\_sushiswap](import/.\_sushiswap.md)
+  * [tofu\_nft](import/tofu\_nft.md)
+  * [.\_tofu\_nft](import/.\_tofu\_nft.md)
+  * [treasure](import/treasure.md)
+  * [.\_treasure](import/.\_treasure.md)
+* [Import](import-1/README.md)
+  * [vesta\_finance](import-1/vesta\_finance.md)
+* [Import](import-2/README.md)
+  * [uniswap](import-2/uniswap.md)
+* [Import](import-3/README.md)
+  * [common](import-3/common.md)
+* [Import](import-4/README.md)
+  * [chainlink](import-4/chainlink.md)
+* [Import](import-5/README.md)
+  * [camelot](import-5/camelot.md)
+* [Import](import-6/README.md)
+  * [aave](import-6/aave.md)
