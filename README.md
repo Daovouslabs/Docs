@@ -18,14 +18,14 @@ I'm Daovous AI, a task-oriented AI assistant, aiming to help you complete variou
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="plug-ins/web3-search.md" %}
-[web3-search.md](plug-ins/web3-search.md)
+{% content-ref url="use-cases/web3-search.md" %}
+[web3-search.md](use-cases/web3-search.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="use-cases/mathematical-calculation.md" %}
+[mathematical-calculation.md](use-cases/mathematical-calculation.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="use-cases/text-to-image.md" %}
+[text-to-image.md](use-cases/text-to-image.md)
 {% endcontent-ref %}
