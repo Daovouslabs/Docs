@@ -51,6 +51,9 @@
     * [pancakeswap](plug-ins/web3-search/bsc/pancakeswap-1.md)
     * [sushiswap](plug-ins/web3-search/bsc/sushiswap.md)
     * [element\_market](plug-ins/web3-search/bsc/element\_market.md)
+  * [Celo](plug-ins/web3-search/celo/README.md)
+    * [common](plug-ins/web3-search/celo/common.md)
+    * [ubeswap](plug-ins/web3-search/celo/ubeswap.md)
 
 ## Use Cases
 
