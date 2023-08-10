@@ -76,12 +76,6 @@
     * [katana](plug-ins/web3-search/ronin/katana.md)
     * [axie](plug-ins/web3-search/ronin/axie.md)
     * [common](plug-ins/web3-search/ronin/common.md)
-  * [Polygon](plug-ins/web3-search/polygon/README.md)
-    * [aave](plug-ins/web3-search/polygon/aave.md)
-    * [chainlink](plug-ins/web3-search/polygon/chainlink.md)
-    * [balancer](plug-ins/web3-search/polygon/balancer.md)
-    * [angle](plug-ins/web3-search/polygon/angle.md)
-    * [0vix](plug-ins/web3-search/polygon/0vix.md)
 
 ## Use Cases
 
@@ -92,14 +86,3 @@
 * [🎙 Text to Audio(Coming Soon)](use-cases/text-to-audio.md)
 * [🧲 Text to Image(Coming Soon)](use-cases/text-to-image.md)
 * [📃 Vision Document QA(Coming Soon)](use-cases/vision-document-qa.md)
-
-***
-
-* [Import](import/README.md)
-  * [tofu\_nft](import/tofu\_nft.md)
-* [Import](import-1/README.md)
-  * [multichain](import-1/multichain.md)
-* [Import](import-2/README.md)
-  * [spookyswap](import-2/spookyswap.md)
-* [Import](import-3/README.md)
-  * [aave](import-3/aave.md)
