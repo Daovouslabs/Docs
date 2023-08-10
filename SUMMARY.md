@@ -89,6 +89,10 @@
     * [element](plug-ins/web3-search/polygon/element.md)
     * [dodo](plug-ins/web3-search/polygon/dodo.md)
     * [dfyn](plug-ins/web3-search/polygon/dfyn.md)
+    * [instadapp](plug-ins/web3-search/polygon/instadapp.md)
+    * [lens\_protocol](plug-ins/web3-search/polygon/lens\_protocol.md)
+    * [frax](plug-ins/web3-search/polygon/frax.md)
+    * [kyber](plug-ins/web3-search/polygon/kyber.md)
 
 ## Use Cases
 
