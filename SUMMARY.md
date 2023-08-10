@@ -81,6 +81,10 @@
     * [balancer](plug-ins/web3-search/polygon/balancer.md)
     * [aave](plug-ins/web3-search/polygon/aave.md)
     * [0vix](plug-ins/web3-search/polygon/0vix.md)
+    * [circle](plug-ins/web3-search/polygon/circle.md)
+    * [chainlink](plug-ins/web3-search/polygon/chainlink.md)
+    * [compound](plug-ins/web3-search/polygon/compound.md)
+    * [common](plug-ins/web3-search/polygon/common.md)
 
 ## Use Cases
 
