@@ -154,6 +154,22 @@
     * [boba](plug-ins/web3-search/ethereum/boba.md)
     * [chainlink](plug-ins/web3-search/ethereum/chainlink.md)
     * [cheezewizards](plug-ins/web3-search/ethereum/cheezewizards.md)
+    * [clipper](plug-ins/web3-search/ethereum/clipper.md)
+    * [clearpool](plug-ins/web3-search/ethereum/clearpool-1.md)
+    * [circle](plug-ins/web3-search/ethereum/circle.md)
+    * [coinbase](plug-ins/web3-search/ethereum/coinbase.md)
+    * [common](plug-ins/web3-search/ethereum/common.md)
+    * [copper](plug-ins/web3-search/ethereum/copper.md)
+    * [convex](plug-ins/web3-search/ethereum/convex.md)
+    * [compound](plug-ins/web3-search/ethereum/compound.md)
+    * [cryptopunks](plug-ins/web3-search/ethereum/cryptopunks.md)
+    * [cryptokitties\_auction](plug-ins/web3-search/ethereum/cryptokitties\_auction.md)
+    * [creamfinance](plug-ins/web3-search/ethereum/creamfinance.md)
+    * [cryptokitties](plug-ins/web3-search/ethereum/cryptokitties.md)
+    * [decentraland](plug-ins/web3-search/ethereum/decentraland.md)
+    * [cyclone](plug-ins/web3-search/ethereum/cyclone.md)
+    * [damm](plug-ins/web3-search/ethereum/damm.md)
+    * [curve](plug-ins/web3-search/ethereum/curve.md)
 
 ## Use Cases
 
