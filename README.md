@@ -26,6 +26,6 @@ We've put together some helpful guides for you to get setup with our product qui
 [mathematical-calculation.md](use-cases/mathematical-calculation.md)
 {% endcontent-ref %}
 
-{% content-ref url="use-cases/text-to-image.md" %}
-[text-to-image.md](use-cases/text-to-image.md)
+{% content-ref url="use-cases/text-to-image-coming-soon.md" %}
+[text-to-image-coming-soon.md](use-cases/text-to-image-coming-soon.md)
 {% endcontent-ref %}
