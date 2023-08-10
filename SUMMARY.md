@@ -101,6 +101,10 @@
     * [oneplanet](plug-ins/web3-search/polygon/oneplanet.md)
     * [opensea](plug-ins/web3-search/polygon/opensea.md)
     * [playdapp](plug-ins/web3-search/polygon/playdapp.md)
+    * [renbtc](plug-ins/web3-search/polygon/renbtc.md)
+    * [stasis](plug-ins/web3-search/polygon/stasis.md)
+    * [quickswap](plug-ins/web3-search/polygon/quickswap.md)
+    * [seaport](plug-ins/web3-search/polygon/seaport.md)
 
 ## Use Cases
 
