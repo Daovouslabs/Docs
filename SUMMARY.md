@@ -72,6 +72,10 @@
     * [synthetix](plug-ins/web3-search/optimism/synthetix.md)
     * [chainlink](plug-ins/web3-search/optimism/chainlink.md)
     * [common](plug-ins/web3-search/optimism/common.md)
+  * [Ronin](plug-ins/web3-search/ronin/README.md)
+    * [katana](plug-ins/web3-search/ronin/katana.md)
+    * [axie](plug-ins/web3-search/ronin/axie.md)
+    * [common](plug-ins/web3-search/ronin/common.md)
 
 ## Use Cases
 
