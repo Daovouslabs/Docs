@@ -76,6 +76,12 @@
     * [katana](plug-ins/web3-search/ronin/katana.md)
     * [axie](plug-ins/web3-search/ronin/axie.md)
     * [common](plug-ins/web3-search/ronin/common.md)
+  * [Polygon](plug-ins/web3-search/polygon/README.md)
+    * [aave](plug-ins/web3-search/polygon/aave.md)
+    * [chainlink](plug-ins/web3-search/polygon/chainlink.md)
+    * [balancer](plug-ins/web3-search/polygon/balancer.md)
+    * [angle](plug-ins/web3-search/polygon/angle.md)
+    * [0vix](plug-ins/web3-search/polygon/0vix.md)
 
 ## Use Cases
 
