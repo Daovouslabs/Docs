@@ -85,6 +85,10 @@
     * [chainlink](plug-ins/web3-search/polygon/chainlink.md)
     * [compound](plug-ins/web3-search/polygon/compound.md)
     * [common](plug-ins/web3-search/polygon/common.md)
+    * [curve](plug-ins/web3-search/polygon/curve.md)
+    * [element](plug-ins/web3-search/polygon/element.md)
+    * [dodo](plug-ins/web3-search/polygon/dodo.md)
+    * [dfyn](plug-ins/web3-search/polygon/dfyn.md)
 
 ## Use Cases
 
