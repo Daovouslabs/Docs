@@ -254,6 +254,22 @@
     * [request](plug-ins/web3-search/ethereum/request.md)
     * [reflexer](plug-ins/web3-search/ethereum/reflexer.md)
     * [rarible](plug-ins/web3-search/ethereum/rarible.md)
+    * [royaltyregistry](plug-ins/web3-search/ethereum/royaltyregistry.md)
+    * [ruler](plug-ins/web3-search/ethereum/ruler.md)
+    * [rocketpool](plug-ins/web3-search/ethereum/rocketpool.md)
+    * [ribbon](plug-ins/web3-search/ethereum/ribbon.md)
+    * [shibaswap](plug-ins/web3-search/ethereum/shibaswap.md)
+    * [sandbox](plug-ins/web3-search/ethereum/sandbox.md)
+    * [sablier](plug-ins/web3-search/ethereum/sablier-1.md)
+    * [seaport](plug-ins/web3-search/ethereum/seaport.md)
+    * [singularity\_net](plug-ins/web3-search/ethereum/singularity\_net-1.md)
+    * [starknet](plug-ins/web3-search/ethereum/starknet.md)
+    * [stakehound](plug-ins/web3-search/ethereum/stakehound.md)
+    * [stakewise](plug-ins/web3-search/ethereum/stakewise.md)
+    * [sushiswap](plug-ins/web3-search/ethereum/sushiswap.md)
+    * [stasis](plug-ins/web3-search/ethereum/stasis.md)
+    * [superrare](plug-ins/web3-search/ethereum/superrare.md)
+    * [sudoswap](plug-ins/web3-search/ethereum/sudoswap.md)
 
 ## Use Cases
 
