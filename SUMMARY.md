@@ -93,6 +93,10 @@
     * [lens\_protocol](plug-ins/web3-search/polygon/lens\_protocol.md)
     * [frax](plug-ins/web3-search/polygon/frax.md)
     * [kyber](plug-ins/web3-search/polygon/kyber.md)
+    * [maker](plug-ins/web3-search/polygon/maker.md)
+    * [mai](plug-ins/web3-search/polygon/mai.md)
+    * [multichain](plug-ins/web3-search/polygon/multichain.md)
+    * [mstable](plug-ins/web3-search/polygon/mstable.md)
 
 ## Use Cases
 
