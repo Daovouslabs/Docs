@@ -109,6 +109,8 @@
     * [tether](plug-ins/web3-search/polygon/tether.md)
     * [sushiswap](plug-ins/web3-search/polygon/sushiswap.md)
     * [uniswap](plug-ins/web3-search/polygon/uniswap.md)
+    * [zeroex](plug-ins/web3-search/polygon/zeroex.md)
+    * [weth](plug-ins/web3-search/polygon/weth.md)
 
 ## Use Cases
 
