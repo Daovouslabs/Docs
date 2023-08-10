@@ -65,6 +65,13 @@
     * [spiritswap](plug-ins/web3-search/fantom/spiritswap.md)
     * [chainlink](plug-ins/web3-search/fantom/chainlink.md)
     * [common](plug-ins/web3-search/fantom/common.md)
+  * [Optimism](plug-ins/web3-search/optimism/README.md)
+    * [velodrome](plug-ins/web3-search/optimism/velodrome.md)
+    * [uniswap](plug-ins/web3-search/optimism/uniswap.md)
+    * [aave](plug-ins/web3-search/optimism/aave.md)
+    * [synthetix](plug-ins/web3-search/optimism/synthetix.md)
+    * [chainlink](plug-ins/web3-search/optimism/chainlink.md)
+    * [common](plug-ins/web3-search/optimism/common.md)
 
 ## Use Cases
 
