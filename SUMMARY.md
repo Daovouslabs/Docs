@@ -105,6 +105,10 @@
     * [stasis](plug-ins/web3-search/polygon/stasis.md)
     * [quickswap](plug-ins/web3-search/polygon/quickswap.md)
     * [seaport](plug-ins/web3-search/polygon/seaport.md)
+    * [wbtc](plug-ins/web3-search/polygon/wbtc.md)
+    * [tether](plug-ins/web3-search/polygon/tether.md)
+    * [sushiswap](plug-ins/web3-search/polygon/sushiswap.md)
+    * [uniswap](plug-ins/web3-search/polygon/uniswap.md)
 
 ## Use Cases
 
