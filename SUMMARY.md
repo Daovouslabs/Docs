@@ -122,6 +122,14 @@
     * [oneinch](plug-ins/web3-search/ethereum/oneinch.md)
     * [ironbank](plug-ins/web3-search/ethereum/ironbank.md)
     * [opensea](plug-ins/web3-search/ethereum/opensea.md)
+    * [aelf](plug-ins/web3-search/ethereum/aelf.md)
+    * [aave\_arc](plug-ins/web3-search/ethereum/aave\_arc.md)
+    * [abracadabra](plug-ins/web3-search/ethereum/abracadabra.md)
+    * [aave](plug-ins/web3-search/ethereum/aave.md)
+    * [ampleforth](plug-ins/web3-search/ethereum/ampleforth.md)
+    * [airswap](plug-ins/web3-search/ethereum/airswap.md)
+    * [angle](plug-ins/web3-search/ethereum/angle.md)
+    * [akropolis](plug-ins/web3-search/ethereum/akropolis.md)
 
 ## Use Cases
 
