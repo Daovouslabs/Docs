@@ -111,6 +111,17 @@
     * [uniswap](plug-ins/web3-search/polygon/uniswap.md)
     * [zeroex](plug-ins/web3-search/polygon/zeroex.md)
     * [weth](plug-ins/web3-search/polygon/weth.md)
+  * [Ethereum](plug-ins/web3-search/ethereum/README.md)
+    * [sablier](plug-ins/web3-search/ethereum/sablier.md)
+    * [multichain](plug-ins/web3-search/ethereum/multichain.md)
+    * [instadapp](plug-ins/web3-search/ethereum/instadapp.md)
+    * [singularity\_net](plug-ins/web3-search/ethereum/singularity\_net.md)
+    * [gnosis](plug-ins/web3-search/ethereum/gnosis.md)
+    * [clearpool](plug-ins/web3-search/ethereum/clearpool.md)
+    * [aztec](plug-ins/web3-search/ethereum/aztec.md)
+    * [oneinch](plug-ins/web3-search/ethereum/oneinch.md)
+    * [ironbank](plug-ins/web3-search/ethereum/ironbank.md)
+    * [opensea](plug-ins/web3-search/ethereum/opensea.md)
 
 ## Use Cases
 
