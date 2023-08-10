@@ -97,6 +97,10 @@
     * [mai](plug-ins/web3-search/polygon/mai.md)
     * [multichain](plug-ins/web3-search/polygon/multichain.md)
     * [mstable](plug-ins/web3-search/polygon/mstable.md)
+    * [polygon](plug-ins/web3-search/polygon/polygon.md)
+    * [oneplanet](plug-ins/web3-search/polygon/oneplanet.md)
+    * [opensea](plug-ins/web3-search/polygon/opensea.md)
+    * [playdapp](plug-ins/web3-search/polygon/playdapp.md)
 
 ## Use Cases
 
