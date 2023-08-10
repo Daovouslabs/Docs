@@ -138,6 +138,22 @@
     * [argent](plug-ins/web3-search/ethereum/argent.md)
     * [arcade](plug-ins/web3-search/ethereum/arcade.md)
     * [arrakis](plug-ins/web3-search/ethereum/arrakis.md)
+    * [aztec](plug-ins/web3-search/ethereum/aztec-1.md)
+    * [aura](plug-ins/web3-search/ethereum/aura.md)
+    * [axie](plug-ins/web3-search/ethereum/axie.md)
+    * [balancer](plug-ins/web3-search/ethereum/balancer.md)
+    * [based](plug-ins/web3-search/ethereum/based.md)
+    * [bancor\_network](plug-ins/web3-search/ethereum/bancor\_network.md)
+    * [bancor](plug-ins/web3-search/ethereum/bancor.md)
+    * [base](plug-ins/web3-search/ethereum/base.md)
+    * [benchmark](plug-ins/web3-search/ethereum/benchmark.md)
+    * [binance](plug-ins/web3-search/ethereum/binance.md)
+    * [blur](plug-ins/web3-search/ethereum/blur.md)
+    * [bend](plug-ins/web3-search/ethereum/bend.md)
+    * [bounties\_network](plug-ins/web3-search/ethereum/bounties\_network.md)
+    * [boba](plug-ins/web3-search/ethereum/boba.md)
+    * [chainlink](plug-ins/web3-search/ethereum/chainlink.md)
+    * [cheezewizards](plug-ins/web3-search/ethereum/cheezewizards.md)
 
 ## Use Cases
 
