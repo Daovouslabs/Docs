@@ -1,4 +1,4 @@
-# 😇 Image Segementation
+# 😇 Image Segementation(Coming Soon)
 
 ## Prompt
 

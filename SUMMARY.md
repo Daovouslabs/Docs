@@ -54,16 +54,27 @@
   * [Celo](plug-ins/web3-search/celo/README.md)
     * [common](plug-ins/web3-search/celo/common.md)
     * [ubeswap](plug-ins/web3-search/celo/ubeswap.md)
+  * [Fantom](plug-ins/web3-search/fantom/README.md)
+    * [multichain](plug-ins/web3-search/fantom/multichain.md)
+    * [paintswap](plug-ins/web3-search/fantom/paintswap.md)
+    * [Beethovenx](plug-ins/web3-search/fantom/beethovenx.md)
+    * [sushiswap](plug-ins/web3-search/fantom/sushiswap.md)
+    * [tofu\_nft](plug-ins/web3-search/fantom/tofu\_nft.md)
+    * [aave](plug-ins/web3-search/fantom/aave.md)
+    * [spookyswap](plug-ins/web3-search/fantom/spookyswap.md)
+    * [spiritswap](plug-ins/web3-search/fantom/spiritswap.md)
+    * [chainlink](plug-ins/web3-search/fantom/chainlink.md)
+    * [common](plug-ins/web3-search/fantom/common.md)
 
 ## Use Cases
 
 * [🎨 Web3 Search](use-cases/web3-search.md)
 * [➗ Mathematical Calculation](use-cases/mathematical-calculation.md)
-* [😀 Image Edit(Coming Soon)](use-cases/image-edit-coming-soon.md)
-* [😇 Image Segementation(Coming Soon)](use-cases/image-segementation-coming-soon.md)
-* [🎙 Text to Audio(Coming Soon)](use-cases/text-to-audio-coming-soon.md)
-* [🧲 Text to Image(Coming Soon)](use-cases/text-to-image-coming-soon.md)
-* [📃 Vision Document QA(Coming Soon)](use-cases/vision-document-qa-coming-soon.md)
+* [😀 Image Edit(Coming Soon)](use-cases/image-edit.md)
+* [😇 Image Segementation(Coming Soon)](use-cases/image-segementation.md)
+* [🎙 Text to Audio(Coming Soon)](use-cases/text-to-audio.md)
+* [🧲 Text to Image(Coming Soon)](use-cases/text-to-image.md)
+* [📃 Vision Document QA(Coming Soon)](use-cases/vision-document-qa.md)
 
 ***
 
