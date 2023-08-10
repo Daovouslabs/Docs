@@ -130,6 +130,14 @@
     * [airswap](plug-ins/web3-search/ethereum/airswap.md)
     * [angle](plug-ins/web3-search/ethereum/angle.md)
     * [akropolis](plug-ins/web3-search/ethereum/akropolis.md)
+    * [ankr](plug-ins/web3-search/ethereum/ankr.md)
+    * [aragon](plug-ins/web3-search/ethereum/aragon.md)
+    * [apecoin](plug-ins/web3-search/ethereum/apecoin.md)
+    * [arbitrum](plug-ins/web3-search/ethereum/arbitrum.md)
+    * [artblocks](plug-ins/web3-search/ethereum/artblocks.md)
+    * [argent](plug-ins/web3-search/ethereum/argent.md)
+    * [arcade](plug-ins/web3-search/ethereum/arcade.md)
+    * [arrakis](plug-ins/web3-search/ethereum/arrakis.md)
 
 ## Use Cases
 
